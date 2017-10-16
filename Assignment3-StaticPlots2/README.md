@@ -1,7 +1,8 @@
 This file contains the update for the previous three static plots in Assignment 2 and two new static plots.
 
 HTML File \
-[Assignment3](file://localhost/Users/admin/Desktop/DataViz/plots/Assignment3.html)
+[Assignment3](file://localhost/Users/admin/Desktop/DataViz/plots/Assignment3.html) \
+file://localhost/Users/admin/Desktop/DataViz/plots/Assignment3.html
 
 *Data Source:* \
 DATA2GO.NYC \
